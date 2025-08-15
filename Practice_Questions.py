@@ -27,10 +27,8 @@ print("Average is:",avg)
 """
 
 # _______________ Strings _______________
-# _______________ Question 01 _______________
-# Check if a string is palindrome (same forwards and backwards).
 
-# _______________ Question 02 _______________
+# _______________ Question 01 _______________
 # Count how many vowels are in a string.
 """def is_vowel(char):
     if(char == "A" or char == "E" or char == "I" or char == "O" or char == "U"):
@@ -57,9 +55,6 @@ for i in string:
         count += 1
 
 print("Number of vowels in a string =",count)"""
-
-# _______________ Question 03 _______________
-# Convert a string into Title Case without using .title().
 
 
 
@@ -118,38 +113,3 @@ for i in words:
 
 print("Frequency:",freq)"""
 
-# _______________ Conditional Statements _______________
-# _______________ Question 01 _______________
-# Check if a number is prime.
-
-# _______________ Question 02 _______________
-# Take a year as input and check if it is a leap year.
-
-# _______________ Question 03 _______________
-# Take marks as input and print Grade A/B/C/F according to ranges.
-
-
-# _______________ Loops _______________
-# _______________ Question 01 _______________
-#Print the Fibonacci series up to n terms.
-
-# _______________ Question 02 _______________
-# Print the multiplication table of a given number.
-
-# _______________ Question 03 _______________
-# Find the factorial of a number using a loop.
-
-
-
-# _______________ Functions _______________
-# _______________ Question 01 _______________
-# Write a function that checks if a number is even or odd.
-
-# _______________ Question 02 _______________
-# Write a function that returns the sum of digits of a number.
-
-# _______________ Question 03 _______________
-# Write a function that takes a list of numbers and returns the second largest number.
-
-# _______________ Question 04 _______________
-# Write a function that counts the vowels in a string.
