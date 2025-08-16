@@ -1,5 +1,5 @@
 
-# _______________ Objecet into Json Strign _______________
+# _______________ Object into Json Strign _______________
 """
 import json
 data = {
@@ -32,3 +32,4 @@ with open("product.json","r") as f:
 
 print(loaded_data)
 print(type(loaded_data))
+
