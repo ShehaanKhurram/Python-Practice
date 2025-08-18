@@ -1,4 +1,4 @@
-# ________ Math built-in Modules ________
+# ________ Math built-in  ________
 # Always returns answer in float
 """
 import math
@@ -46,7 +46,7 @@ print(math.radians(57)) #1.0
 """
 #_______________________________________________________________
 
-# ________ Random built-in Modules ________
+# ________ Random built-in ________
 """
 import random
 #1. random.random()
@@ -77,4 +77,5 @@ deck = [1,2,3,4,5,6,7,8,9,10]
 random.shuffle(deck) # Shuffle a sequence
 print(deck)
 print("Hi")
+
 """
