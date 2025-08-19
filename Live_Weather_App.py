@@ -1,5 +1,5 @@
 import requests
-API = "1f139e1b5647dad807ce0077d6e3a1a9"
+API = "key"
 
 while True:
     city_name = input("Enter city name ('exit' to quit): ")
@@ -24,4 +24,5 @@ while True:
 
     elif r.status_code == 404:
         print("City not found! Please try again.\n")
+
    
